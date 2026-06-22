@@ -26,3 +26,7 @@ data/*
 # Build outputs
 dist/
 build/
+
+# Personal
+ROADMAP.md
+DEVLOG.md
